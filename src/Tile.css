@@ -1,0 +1,35 @@
+.Tile {
+    width: 320px;
+    border: 1px solid rgb(192, 190, 190);
+    border-radius: 30px;
+    margin-left: 50px;
+    background-color: rgb(233, 233, 233);
+}
+
+a {
+    font-size: 25px;
+    position: relative;
+    top: -25px;
+    color: rgb(82, 80, 80);
+    text-decoration: none;
+}
+
+p {
+    color: rgb(94, 94, 234);
+    margin-left: 20px;
+    font-size: 23px;
+    margin-bottom: 0px;
+    margin-top: 10px
+}
+
+#title {
+    font-size: 23px;
+    margin-left: 15px;
+    margin-top: 10px;
+    color: black;
+    margin-bottom: 30px;
+}
+
+.items {
+    padding: 10px;
+}
